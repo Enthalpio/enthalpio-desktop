@@ -4,7 +4,7 @@
 
 ## Скачать
 
-**[Enthalpio-Desktop-1.0.0.zip](https://github.com/enthalpio/enthalpio-desktop/releases/download/v1.0.0/Enthalpio-Desktop-1.0.0.zip)**
+**[Enthalpio-Desktop-1.0.1.zip](https://github.com/enthalpio/enthalpio-desktop/releases/download/v1.0.1/Enthalpio-Desktop-1.0.1.zip)**
 
 ## Что внутри
 
